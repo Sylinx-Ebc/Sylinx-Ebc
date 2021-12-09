@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Sylinx-Ebc
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning 
+- 👀 I’m interested in Web Application Programming
