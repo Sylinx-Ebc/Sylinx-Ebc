@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Sylinx-Ebc
-- 👀 I’m interested in Web Application Programming
+- 👋 Hi, I’m Ebc
+- 👀 I’m a FullStack developer
